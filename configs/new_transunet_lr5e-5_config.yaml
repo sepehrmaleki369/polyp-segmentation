@@ -1,0 +1,23 @@
+# Dataset paths
+train_img_dir: 'data/kvasir_seg/train/images'
+train_mask_dir: 'data/kvasir_seg/train/masks'
+val_img_dir: 'data/kvasir_seg/val/images'
+val_mask_dir: 'data/kvasir_seg/val/masks'
+test_img_dir: 'data/kvasir_seg/test/images'
+test_mask_dir: 'data/kvasir_seg/test/masks'
+
+# Model parameters
+model_name: 'new_transunet'
+img_size: 224
+embed_dim: 768
+depth: 12
+num_heads: 12
+
+# Training parameters
+batch_size: 8
+learning_rate: 0.00005
+num_epochs: 30
+num_workers: 2
+
+# Experiment tracking
+experiment_name: 'new_transunet_lr5e-5'
