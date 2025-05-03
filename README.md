@@ -116,4 +116,5 @@ For any questions or suggestions, please contact:
 
 - **Name**: Sepehr Maleki
 - **GitHub**: [sepehrmaleki369](https://github.com/sepehrmaleki369)
-- **Email**: [Add your email here] 
+- **LinkedIn**: [Sepehr Maleki](https://www.linkedin.com/in/sepehr-maleki-27abbb198/)
+- **Email**: sepehrmaleki88@gmail.com 
