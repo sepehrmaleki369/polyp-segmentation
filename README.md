@@ -58,9 +58,18 @@ python train.py --config configs/transunet_config.yaml
 ```
 
 Available configurations:
+
+#### TransUNet Configurations
 - `transunet_config.yaml`
 - `transunet_embed576_config.yaml`
 - `transunet_lr5e-5_config.yaml`
+
+#### Enhanced TransUNet Configurations
+- `new_transunet_config.yaml`
+- `new_transunet_embed576_config.yaml`
+- `new_transunet_lr5e-5_config.yaml`
+
+#### U-Net++ Configurations
 - `unetpp_config.yaml`
 - `unetpp_deepsup_config.yaml`
 - `unetpp_lr5e-5_config.yaml`
@@ -103,4 +112,8 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-[Add your contact information here] 
+For any questions or suggestions, please contact:
+
+- **Name**: Sepehr Maleki
+- **GitHub**: [sepehrmaleki369](https://github.com/sepehrmaleki369)
+- **Email**: [Add your email here] 
