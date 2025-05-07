@@ -34,23 +34,15 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Dataset and results - only exclude large files
-datasets/*.zip
-datasets/*.tar
-datasets/*.gz
-datasets/*.rar
-data/*.zip
-data/*.tar
-data/*.gz
-data/*.rar
-results/*.pth
-results/*.pt
-results/*.h5
-results/*.hdf5
-comparison_results/*.pth
-comparison_results/*.pt
-comparison_results/*.h5
-comparison_results/*.hdf5
+# Only exclude large data files, not folders
+*.zip
+*.tar
+*.gz
+*.rar
+*.pth
+*.pt
+*.h5
+*.hdf5
 
 # Logs
 *.log
